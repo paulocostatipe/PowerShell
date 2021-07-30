@@ -1,0 +1,1 @@
+﻿Get-EventLog -LogName System | Where EventID -eq 1074
